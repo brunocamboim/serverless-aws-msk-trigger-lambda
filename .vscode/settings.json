@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    ".serverless": true,
+    ".nyc_output": true,
+    "coverage": true
+  }
+}
